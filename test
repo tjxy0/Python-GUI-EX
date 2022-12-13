@@ -1,0 +1,5 @@
+from tkinter import *               #导入tkinter模块
+root=Tk()                           #创建窗口
+root.title('121331')                #设置窗口标题
+root.geometry('800*600')            #设置窗口大小
+root.mainloop()                     #主循环
